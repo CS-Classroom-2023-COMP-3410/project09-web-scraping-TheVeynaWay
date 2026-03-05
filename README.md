@@ -72,11 +72,10 @@ Save the results in `results/athletic_events.json` using the following format:
 Inspect the **HTML structure** of the page to determine where the carousel data is actually being sourced from. It might be dynamically loaded via JavaScript.
 
 ### 3. Scrape the DU Main Calendar for 2025 Events  
-Scrape the [DU main calendar](https://www.du.edu/calendar) and extract all events occurring between **January 1, 2025 – December 31, 2025**. Extract the following details:  
+Scrape the [DU main calendar](https://www.du.edu/calendar) and extract all events occurring between **Current Month**. Extract the following details:  
 - **Event Title**  
 - **Event Date**  
 - **Event Time** (if available)  
-- **Event Description** (if available on the event page)  
 
 Save the results in `results/calendar_events.json` using the format below:
 
@@ -87,14 +86,12 @@ Save the results in `results/calendar_events.json` using the format below:
         {
             "title": "Event Title",
             "date": "Event Date",
-            "time": "Event Time",
-            "description": "Event Description"
+            "time": "Event Time"
         },
         {
             "title": "Event Title",
             "date": "Event Date",
-            "time": "Event Time",
-            "description": "Event Description"
+            "time": "Event Time"
         },
         ...
     ]
