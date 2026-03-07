@@ -1,3 +1,514 @@
 {
-    "events": []
+    "events": [
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 1",
+            "date": "2026-03-01"
+        },
+        {
+            "duTeam": "Women's Triathlon",
+            "opponent": "Tritonman - Non Draft-Legal",
+            "date": "2026-03-01"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Minnesota",
+            "date": "2026-03-01"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Air Force",
+            "date": "2026-03-01"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "High Point",
+            "date": "2026-03-01"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "(12) Utah",
+            "date": "2026-03-01"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 2",
+            "date": "2026-03-02"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 3",
+            "date": "2026-03-03"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Stony Brook",
+            "date": "2026-03-06"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "New Mexico",
+            "date": "2026-03-06"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "South Dakota",
+            "date": "2026-03-06"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "Miami",
+            "date": "2026-03-06"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Air Force, San Jose State",
+            "date": "2026-03-06"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "North Dakota",
+            "date": "2026-03-06"
+        },
+        {
+            "duTeam": "Women's Soccer",
+            "opponent": "Colorado State 8v8 Tournament",
+            "date": "2026-03-07"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "South Dakota",
+            "date": "2026-03-07"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Northern Arizona",
+            "date": "2026-03-07"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "Miami",
+            "date": "2026-03-07"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 1",
+            "date": "2026-03-08"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Fairfield",
+            "date": "2026-03-08"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "Miami",
+            "date": "2026-03-08"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 2",
+            "date": "2026-03-09"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NCAA Zone E Diving",
+            "date": "2026-03-09"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NCAA Zone E Diving",
+            "date": "2026-03-09"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Air Force",
+            "date": "2026-03-09"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NCAA Zone E Diving",
+            "date": "2026-03-09"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NCAA Zone E Diving",
+            "date": "2026-03-09"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 3",
+            "date": "2026-03-10"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NCAA Zone E Diving",
+            "date": "2026-03-09"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NCAA Zone E Diving",
+            "date": "2026-03-09"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NIC Championships",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Skiing",
+            "opponent": "Giant Slalom",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NIC Championships",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NIC Championships",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NIC Championships",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Skiing",
+            "opponent": "7.5K Classic",
+            "date": "2026-03-12"
+        },
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "Ohio State",
+            "date": "2026-03-12"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NIC Championships",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NIC Championships",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Skiing",
+            "opponent": "Slalom",
+            "date": "2026-03-13"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Davidson",
+            "date": "2026-03-13"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Stetson",
+            "date": "2026-03-13"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NIC Championships",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NIC Championships",
+            "date": "2026-03-11"
+        },
+        {
+            "duTeam": "Skiing",
+            "opponent": "20K Freestyle",
+            "date": "2026-03-14"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCHC Semifinals",
+            "date": "2026-03-14"
+        },
+        {
+            "duTeam": "Men's Soccer",
+            "opponent": "UCCS",
+            "date": "2026-03-14"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Oregon State",
+            "date": "2026-03-14"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Penn",
+            "date": "2026-03-15"
+        },
+        {
+            "duTeam": "Women's Soccer",
+            "opponent": "University of Colorado Colorado Springs",
+            "date": "2026-03-15"
+        },
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "Syracuse",
+            "date": "2026-03-16"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Charlotte",
+            "date": "2026-03-17"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NCAA Championships",
+            "date": "2026-03-18"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NCAA Championships",
+            "date": "2026-03-18"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NCAA Championships",
+            "date": "2026-03-18"
+        },
+        {
+            "duTeam": "Women's Swimming & Diving",
+            "opponent": "NCAA Championships",
+            "date": "2026-03-18"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Big 12 Championship",
+            "date": "2026-03-21"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCHC Final",
+            "date": "2026-03-21"
+        },
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "Duke",
+            "date": "2026-03-22"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "UConn",
+            "date": "2026-03-22"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 1/2",
+            "date": "2026-03-23"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Cal Poly",
+            "date": "2026-03-23"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 3",
+            "date": "2026-03-24"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 1",
+            "date": "2026-03-24"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 2",
+            "date": "2026-03-25"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NCAA Championships",
+            "date": "2026-03-25"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Gonzaga",
+            "date": "2026-03-25"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Memphis",
+            "date": "2026-03-25"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NCAA Championships",
+            "date": "2026-03-25"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 3",
+            "date": "2026-03-26"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Michigan",
+            "date": "2026-03-26"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NCAA Championships",
+            "date": "2026-03-25"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCAA Regionals",
+            "date": "2026-03-27"
+        },
+        {
+            "duTeam": "Women's Triathlon",
+            "opponent": "Americas Triathlon Cup Gulfport",
+            "date": "2026-03-27"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Xavier",
+            "date": "2026-03-27"
+        },
+        {
+            "duTeam": "Men's Swimming & Diving",
+            "opponent": "NCAA Championships",
+            "date": "2026-03-25"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCAA Regionals",
+            "date": "2026-03-27"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Butler",
+            "date": "2026-03-28"
+        },
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "Georgetown",
+            "date": "2026-03-28"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCAA Regionals",
+            "date": "2026-03-27"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Marquette",
+            "date": "2026-04-01"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Illinois State",
+            "date": "2026-04-03"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Tulsa",
+            "date": "2026-04-03"
+        },
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "Villanova",
+            "date": "2026-04-04"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Kansas City",
+            "date": "2026-04-04"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "Oral Roberts",
+            "date": "2026-04-04"
+        },
+        {
+            "duTeam": "Men's Soccer",
+            "opponent": "Metro State",
+            "date": "2026-04-04"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 1/2",
+            "date": "2026-04-06"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 3",
+            "date": "2026-04-07"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCAA Frozen Four",
+            "date": "2026-04-09"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCAA Frozen Four",
+            "date": "2026-04-09"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 1",
+            "date": "2026-04-10"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 1/2",
+            "date": "2026-04-10"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "Oral Roberts",
+            "date": "2026-04-10"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCAA Frozen Four",
+            "date": "2026-04-09"
+        },
+        {
+            "duTeam": "Women's Golf",
+            "opponent": "Round 3",
+            "date": "2026-04-11"
+        },
+        {
+            "duTeam": "Men's Golf",
+            "opponent": "Round 2",
+            "date": "2026-04-11"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "Villanova",
+            "date": "2026-04-11"
+        },
+        {
+            "duTeam": "Women's Tennis",
+            "opponent": "North Dakota",
+            "date": "2026-04-11"
+        },
+        {
+            "duTeam": "Men's Lacrosse",
+            "opponent": "St. John's",
+            "date": "2026-04-11"
+        },
+        {
+            "duTeam": "Men's Soccer",
+            "opponent": "Air Force",
+            "date": "2026-04-11"
+        },
+        {
+            "duTeam": "Men's Tennis",
+            "opponent": "North Dakota",
+            "date": "2026-04-11"
+        }
+    ]
 }

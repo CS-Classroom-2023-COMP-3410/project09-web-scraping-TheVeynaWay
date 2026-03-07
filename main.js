@@ -30,11 +30,22 @@ axios.get('https://bulletin.du.edu/undergraduate/coursedescriptions/comp/').then
     await fs.writeJson('results/bulletin.json', { courses }, { spaces: 4 });
 });
 
-axios.get('https://denverpioneers.com/index.aspx').then(response => {
-    const $ = cheerio.load(response.data);
+axios.get('https://denverpioneers.com/services/responsive-calendar.ashx?type=month&sport=0&location=all&date=3%2F6%2F2026+12%3A00%3A00+AM').then(response => {
+    const data = response.data;
     const events = [];
 
-    //Code wasn't working, deleted it, need to fix but ran out of time
+    data.forEach(day => {
+        if (Array.isArray(day.events)) {
+            day.events.forEach(game => {
+
+                const duTeam = game.sport.title;
+                const opponent = game.opponent.title;
+                const date = game.date.split("T")[0];
+
+                events.push({ duTeam, opponent, date });
+            });
+        }
+    });
 
     fs.writeFileSync("results/athletic_events.json", JSON.stringify({ events }, null, 4));
     console.log("Scraping complete!");
