@@ -1,36 +1,6 @@
 {
     "events": [
         {
-            "title": "MASA Meeting",
-            "date": "March 4",
-            "time": "11:00am - 12:00pm"
-        },
-        {
-            "title": "Lamont Symphony Orchestra & Choirs",
-            "date": "March 4",
-            "time": "7:30pm - 9:30pm"
-        },
-        {
-            "title": "STW Winter 2026",
-            "date": "March 5",
-            "time": "6:00am - 7:00am"
-        },
-        {
-            "title": "RSECS Executive and Leadership Meetings",
-            "date": "March 5",
-            "time": "12:00pm - 1:00pm"
-        },
-        {
-            "title": "Into the Woods",
-            "date": "March 5",
-            "time": "7:30pm - 10:00pm"
-        },
-        {
-            "title": "Wind Chamber Ensembles",
-            "date": "March 5",
-            "time": "7:30pm - 9:30pm"
-        },
-        {
             "title": "CLUB Figure Skating Practice",
             "date": "March 6",
             "time": "7:15am - 8:15am"
@@ -56,14 +26,14 @@
             "time": "5:00pm - 11:00pm"
         },
         {
-            "title": "Into the Woods",
-            "date": "March 6",
-            "time": "7:30pm - 10:00pm"
-        },
-        {
             "title": "Undergraduate recital: Iris Hannon, voice",
             "date": "March 6",
             "time": "7:30pm - 9:30pm"
+        },
+        {
+            "title": "Into the Woods",
+            "date": "March 6",
+            "time": "7:30pm - 10:00pm"
         },
         {
             "title": "Reed Knife Sharpening Workshop with Tom Blodgett",
@@ -76,19 +46,24 @@
             "time": "10:30am - 12:30pm"
         },
         {
+            "title": "Masterclass: James Ehnes, violin",
+            "date": "March 7",
+            "time": "1:30pm - 3:00pm"
+        },
+        {
             "title": "SOLD OUT: Bluegrass Ensemble",
             "date": "March 7",
             "time": "4:30pm - 6:30pm"
         },
         {
-            "title": "String Chamber Ensembles",
-            "date": "March 7",
-            "time": "7:30pm - 9:00pm"
-        },
-        {
             "title": "Into the Woods",
             "date": "March 7",
             "time": "7:30pm - 10:00pm"
+        },
+        {
+            "title": "String Chamber Ensembles",
+            "date": "March 7",
+            "time": "7:30pm - 9:00pm"
         },
         {
             "title": "Undergraduate recital: Alex Wong, harp",
@@ -221,22 +196,12 @@
             "time": "7:30pm - 9:00pm"
         },
         {
-            "title": "Lamont Winter Colloquium",
-            "date": "March 13",
-            "time": "2:30pm - 4:00pm"
-        },
-        {
             "title": "DU DAD Club",
             "date": "March 13",
             "time": "5:00pm - 11:00pm"
         },
         {
             "title": "Undergraduate recital: Trevor Briggs, jazz composition",
-            "date": "March 14",
-            "time": "4:30pm - 6:30pm"
-        },
-        {
-            "title": "Graduate recital: Maggie Sczekan, voice",
             "date": "March 14",
             "time": "4:30pm - 6:30pm"
         },
@@ -334,6 +299,11 @@
             "title": "Letters of Love Meeting",
             "date": "March 17",
             "time": "5:30pm - 7:00pm"
+        },
+        {
+            "title": "Graduate recital: Bohan Hou, violin",
+            "date": "March 17",
+            "time": "7:30pm - 9:30pm"
         },
         {
             "title": "MASA Meeting",
